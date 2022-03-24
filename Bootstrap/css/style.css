@@ -21,3 +21,11 @@ body {
   padding-left: 20%;
   padding-right: 20%;
 }
+
+.parceiros {
+  background-color: rgb(190, 255, 125);
+}
+
+.images_parceiros {
+  align-items: center;
+}
