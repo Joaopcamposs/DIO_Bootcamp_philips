@@ -26,6 +26,19 @@ body {
   background-color: rgb(190, 255, 125);
 }
 
-.images_parceiros {
+.images {
   align-items: center;
+}
+
+.servicos {
+  background-color: rgba(0, 0, 0, 0.603);
+  color: white;
+}
+.ifood {
+  padding-top: 6%;
+}
+
+.bg-footer {
+  background-color: black;
+  color: white;
 }
