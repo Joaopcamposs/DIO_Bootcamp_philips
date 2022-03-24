@@ -1,3 +1,7 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+
 .navbar {
   background-color: bisque;
   padding-left: 30px;
@@ -9,5 +13,11 @@
 }
 
 .margin {
-  padding-top: 50px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+.text {
+  padding-left: 20%;
+  padding-right: 20%;
 }
